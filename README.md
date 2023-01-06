@@ -9,4 +9,8 @@ To get a holistic review of a professor, students must read through each review 
 Rate My CAPEs combines professor review website RateMyProfessors and CAPEs, UCSD's professor rating tool. The program runs sentiment analysis on each review of a professor and lists the most prevalent opinions felt by their students. Combining these labels with the overall numerical ratings on the two sites, Rate My CAPEs can give a more accurate and accessible professor review.
 
 
+This project was originally created for [SPIS 2022] (http://spis.ucsd.edu/index.html)
 created by Peter Lee (@peterchwl) and Vinayak Sharma (@PiXlRAM)
+
+# License
+MIT.
