@@ -12,5 +12,7 @@ Rate My CAPEs combines professor review website [Rate My Professors](https://www
 - This project was originally created for [SPIS 2022](http://spis.ucsd.edu/index.html)
 - made by Peter Lee ([@peterchwl](https://github.com/peterchwl)) and Vinayak Sharma ([@PiXlRAM](https://github.com/PiXlRAM))
 
+**[Project Video](https://drive.google.com/file/d/1sxznsueY0ZvjImuA7DEUaw6o3CvOSroT/view?usp=sharing)**
+
 # License
 MIT.
